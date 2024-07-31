@@ -25,5 +25,7 @@ let state;
 // object 
 
 console.log(typeof "Jeet");
+console.log(typeof null); //object
+console.log(typeof undefined); //undefined
 
 
